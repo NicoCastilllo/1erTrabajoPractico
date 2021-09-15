@@ -14,3 +14,59 @@
 .carouseltext {
     color: green
 }
+
+.titulos {
+    font-family: 'Times New Roman', Times, serif;
+    color: #297045;
+}
+
+.pequeños {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #93B5C6;
+}
+
+.medianos {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2CEAA3;
+
+}
+
+.grandes {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #003249;
+}
+
+.titulohistorias {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #726DA8;
+}
+
+.subtitulohistorias {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #7D8CC4;
+}
+
+.tituloobjetivos {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #6B2737;
+}
+
+.rescatar {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #E08E45
+}
+
+.rehabilitar {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #E86252
+}
+
+.adoptar {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #E87EA1
+}
+
+.supervisar {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #658E9C;
+}
