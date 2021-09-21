@@ -80,3 +80,11 @@
     border: 7px solid #FF9CB4;
     border-radius: 17px;
 }
+
+.bordemacho:hover{
+    box-shadow: 8px 4px 13px 7px rgba(49,24,232,0.67);
+}
+
+.bordehembra:hover{
+    box-shadow: 8px 4px 13px 7px rgba(232,49,191,0.67);
+}
