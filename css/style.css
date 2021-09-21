@@ -70,3 +70,13 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #658E9C;
 }
+
+.machomarco {
+    border: 7px solid #1C6EA4;
+    border-radius: 17px;
+}
+
+.hembramarco {
+    border: 7px solid #FF9CB4;
+    border-radius: 17px;
+}
