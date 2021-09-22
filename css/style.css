@@ -88,3 +88,33 @@
 .bordehembra:hover{
     box-shadow: 8px 4px 13px 7px rgba(232,49,191,0.67);
 }
+
+.rescatarmarco{
+    border: 2px solid #E08E45;
+}
+
+.rehabilitarmarco{
+    border: 2px solid #E86252;
+}
+
+.adoptarmarco{
+    border: 2px solid #E87EA1;
+}
+
+.supervisarmarco{
+    border: 2px solid #658E9C;
+}
+
+.historiasmachomarco {
+    border: 2px solid #1C6EA4;
+    padding: 0;
+}
+
+.historiashembramarco {
+    border: 2px solid #FF9CB4;
+    padding: 0;
+}
+
+.carouselmarco {
+    border: 2px solid #008000;
+}
