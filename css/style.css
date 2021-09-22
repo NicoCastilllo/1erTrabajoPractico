@@ -15,9 +15,17 @@
     color: green
 }
 
-.titulos {
-    font-family: 'Times New Roman', Times, serif;
-    color: #297045;
+.tituloadopciones {
+    font-family: "Times New Roman", Times, serif;
+font-size: 35px;
+letter-spacing: 0px;
+word-spacing: 0px;
+color: #297045;
+font-weight: 700;
+text-decoration: underline solid #297045;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
 }
 
 .pequeños {
@@ -37,9 +45,43 @@
 }
 
 .titulohistorias {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 38px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
     color: #726DA8;
+    font-weight: 700;
+    text-decoration: underline solid #726DA8;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
 }
+
+.titulobienvenidos {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #297045;
+    font-weight: 700;
+    text-decoration: underline solid #297045;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+.subtitulosindex {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 34px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #297045;
+    font-weight: 700;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
 
 .subtitulohistorias {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -47,8 +89,16 @@
 }
 
 .tituloobjetivos {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 38px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
     color: #6B2737;
+    font-weight: 700;
+    text-decoration: underline solid #6B2737;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
 }
 
 .rescatar {
@@ -117,4 +167,8 @@
 
 .carouselmarco {
     border: 2px solid #008000;
+}
+
+.alertamarco {
+    border: 2px solid #e60d0d;
 }
