@@ -11,7 +11,11 @@
     color: palevioletred;
 }
 
-.carouseltext {
+.carouseltitletext {
+    color: green
+}
+
+.carouselptext {
     color: green
 }
 
@@ -171,4 +175,22 @@ text-transform: none;
 
 .alertamarco {
     border: 2px solid #e60d0d;
+}
+
+@media (max-width:576px) {
+    .carouselptext {
+        display: none;
+    }
+}
+
+@media (max-width:576px) {
+    .titulobienvenidos {
+        font-size: 35px;
+    }
+}
+
+@media (max-width:5768px) {
+    .alertamarco {
+        border: none;
+    }
 }
