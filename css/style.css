@@ -189,8 +189,20 @@ text-transform: none;
     }
 }
 
-@media (max-width:5768px) {
+@media (max-width:768px) {
     .alertamarco {
         border: none;
+    }
+}
+
+@media (max-width:446px) {
+    .tituloobjetivos {
+        font-size: 30px;
+    }
+}
+
+@media (max-width:367px) {
+    .titulohistorias {
+        font-size: 25px;
     }
 }
