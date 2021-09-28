@@ -206,3 +206,67 @@ text-transform: none;
         font-size: 25px;
     }
 }
+
+.animaciontarjeta {
+	animation: animaciontarjeta 0.4s ease-in-out both;
+}
+
+@keyframes animaciontarjeta {
+    0% {
+      transform: scale(0.5);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+.textorojoalerta {
+    animation: textorojoalerta 1s ease-in-out both;
+}
+
+@keyframes textorojoalerta {
+    0% {
+      color: yellow;
+    }
+    50% {
+      color: orange;
+    }
+
+    100% {
+      color: firebrick;
+    }
+  }
+  
+.nombremachomotion {
+    animation: nombremachomotion 0.6s ease-in-out both;
+}
+
+@keyframes nombremachomotion {
+    0% {
+      color: white;
+    }
+    50% {
+      color: rgba(104, 231, 231, 0.596);
+    }
+
+    100% {
+      color: cyan;
+    }
+  }
+  
+  .nombrehembramotion {
+    animation: nombrehembramotion 0.6s ease-in-out both;
+}
+
+@keyframes nombrehembramotion {
+    0% {
+      color: white;
+    }
+    50% {
+      color: pink;
+    }
+
+    100% {
+      color: palevioletred;
+    }
+  }
